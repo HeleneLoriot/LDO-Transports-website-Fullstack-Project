@@ -1,23 +1,18 @@
 <div align="center">
-<img src="front/src/assets/logoSF.png" width=350px>
-</div>
-
-<center>
 
 # Site web de l'entreprise LDO Transports
 
 [Le site](https://ldo-transports.netlify.app)  
 [La présentation YouTube (à 58:11 min)](https://www.youtube.com/watch?v=2S5FSWNPA5g)
 
-</center>
+</div>
 
 #
 <div align="center">
-<img src="screenshots/LDOdesktopVue.png" height=300px width=550px>
+<img src="screenshots/LDOdesktopVue.png">
 </div>
 
 ## Projet
-
 LDO Transports est une entreprise de transport routier toulousaine.  
 Ce projet est leur site vitrine et un outil de publication de leurs offres de recrutement à destination des chauffeurs routiers.  
 Les visiteurs peuvent postuler directement aux offres en ligne, depuis le site.
